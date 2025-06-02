@@ -1,0 +1,38 @@
+{
+    "categorias": [
+      {
+        "nome": "Salgados",
+        "imagem": "https://via.placeholder.com/80"
+      },
+      {
+        "nome": "Doces",
+        "imagem": "https://via.placeholder.com/80"
+      }
+      
+    ],
+    "produtos": [
+      {
+        "categoria": "Salgados",
+        "nome": "Coxinha",
+        "descricao": "Coxinha de frango deliciosa.",
+        "preco": "7,00",
+        "imagem": "https://via.placeholder.com/80"
+      },
+      {
+        "categoria": "Doces",
+        "nome": "Brigadeiro",
+        "descricao": "Brigadeiro tradicional.",
+        "preco": "2,00",
+        "imagem": "https://via.placeholder.com/80"
+      },
+      {
+        "categoria": "Salgados",
+        "nome": "Croissant de Frango",
+        "descricao": "Croissant com recheio de frango.",
+        "preco": "2,00",
+        "imagem": "https://via.placeholder.com/80"
+      }
+  
+    ]
+  }
+  
