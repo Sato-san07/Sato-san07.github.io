@@ -20,7 +20,6 @@
             "editora": "Tempo Literário",
             "disponivel": false
           }
-          // ... mais livros
         ]
       },
       {
@@ -42,7 +41,6 @@
             "editora": "BioLearn",
             "disponivel": true
           }
-          // ... mais livros
         ]
       },
       {
@@ -64,10 +62,8 @@
             "editora": "Memória Viva",
             "disponivel": true
           }
-          // ... mais livros
         ]
       }
-      // ... outras categorias se quiser
     ]
   }
 }
