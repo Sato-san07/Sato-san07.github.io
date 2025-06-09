@@ -1,0 +1,73 @@
+{
+  "biblioteca": {
+    "categorias": [
+      {
+        "nome": "Ficção",
+        "livros": [
+          {
+            "id": 1,
+            "titulo": "O Enigma da Estrela",
+            "autor": "Lucas Andrade",
+            "ano": 2021,
+            "editora": "Editora Aurora",
+            "disponivel": true
+          },
+          {
+            "id": 2,
+            "titulo": "As Sombras do Tempo",
+            "autor": "Marina Silva",
+            "ano": 2019,
+            "editora": "Tempo Literário",
+            "disponivel": false
+          }
+          // ... mais livros
+        ]
+      },
+      {
+        "nome": "Ciência",
+        "livros": [
+          {
+            "id": 11,
+            "titulo": "O Universo em Expansão",
+            "autor": "Carlos Mendes",
+            "ano": 2020,
+            "editora": "Ciência Viva",
+            "disponivel": true
+          },
+          {
+            "id": 12,
+            "titulo": "Genética para Iniciantes",
+            "autor": "Ana Beatriz Rocha",
+            "ano": 2018,
+            "editora": "BioLearn",
+            "disponivel": true
+          }
+          // ... mais livros
+        ]
+      },
+      {
+        "nome": "História",
+        "livros": [
+          {
+            "id": 21,
+            "titulo": "Impérios Antigos",
+            "autor": "Júlio Tavares",
+            "ano": 2015,
+            "editora": "História Global",
+            "disponivel": false
+          },
+          {
+            "id": 22,
+            "titulo": "A Era das Revoluções",
+            "autor": "Luciana Ribeiro",
+            "ano": 2017,
+            "editora": "Memória Viva",
+            "disponivel": true
+          }
+          // ... mais livros
+        ]
+      }
+      // ... outras categorias se quiser
+    ]
+  }
+}
